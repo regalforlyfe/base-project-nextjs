@@ -1,5 +1,8 @@
 {
   "home": {
-    "title": "Halo Dunia!"
+    "name": "Nama",
+    "email": "Email",
+    "position": "Posisi",
+    "location": "Lokasi"
   }
 }

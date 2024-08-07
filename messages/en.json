@@ -1,5 +1,8 @@
 {
   "home": {
-    "title": "Hello world!"
+    "name": "Name",
+    "email": "Email",
+    "position": "Position",
+    "location": "Location"
   }
 }

@@ -1,12 +1,12 @@
 import UserRepo from "@/repositories/user-repo";
 
-const getUser = async ({ id }) => {
-  const res = await UserRepo.getUser({ id: id });
+const getDetailUser = async ({ id }) => {
+  const res = await UserRepo.getDetailUser({ id: id });
   return res;
 };
 
 const Action = {
-  getUser,
+  getDetailUser,
 };
 
 export default Action;
